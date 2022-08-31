@@ -3,3 +3,4 @@ Target Al-Fazza Tech
 - mendapatkan klien minimal 1 bulan 1
 - menjalankan project undangan online
 - menjalankan service online
+- stok barang sparepart
